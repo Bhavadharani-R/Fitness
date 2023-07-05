@@ -1,0 +1,163 @@
+{
+  "enquiry": [
+    {
+      "firstName": "ssdfghj",
+      "lastName": "gvhbcjsn",
+      "email": "dfghjk",
+      "mobile": "134678",
+      "weight": "10",
+      "height": "89",
+      "bmi": 0.0010099734881959348,
+      "bmiResults": "UnderWeight",
+      "gender": "Male",
+      "requireTrainers": "Yes",
+      "package": "Quartely",
+      "important": [
+        "Building Lean Muscle"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-10T18:30:00.000Z",
+      "id": 12
+    },
+    {
+      "firstName": "praaaa",
+      "lastName": "R",
+      "email": "bava@gmail.com",
+      "mobile": "234567",
+      "weight": "13",
+      "height": "78",
+      "bmi": 0.0011505588428665351,
+      "bmiResults": "UnderWeight",
+      "gender": "Male",
+      "requireTrainers": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-23T18:30:00.000Z",
+      "id": 13
+    },
+    {
+      "firstName": "Sangeetha",
+      "lastName": "R",
+      "email": "sangeetha@gmail.com",
+      "mobile": "6380230290",
+      "weight": "48",
+      "height": "1.6",
+      "bmi": 0.39062499999999994,
+      "bmiResults": "UnderWeight",
+      "gender": "Female",
+      "requireTrainers": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "no",
+      "enquiryDate": "2023-02-22T18:30:00.000Z",
+      "id": 14
+    },
+    {
+      "firstName": "praaaa",
+      "lastName": "R",
+      "email": "bava@gmail.com",
+      "mobile": "123456789",
+      "weight": "100",
+      "height": "1.6",
+      "bmi": 39.06249999999999,
+      "bmiResults": "Obesity",
+      "gender": "Male",
+      "requireTrainers": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "no",
+      "enquiryDate": "2023-02-10T18:30:00.000Z",
+      "id": 19
+    },
+    {
+      "firstName": "nh",
+      "lastName": "b bgb",
+      "email": "bv ",
+      "mobile": "75567",
+      "weight": "45",
+      "height": "154",
+      "bmi": 0.0018974531961544949,
+      "bmiResults": "UnderWeight",
+      "gender": "Female",
+      "requireTrainers": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Building Lean Muscle"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-07T18:30:00.000Z",
+      "id": 22
+    },
+    {
+      "firstName": "Bhavadharani ",
+      "lastName": "R",
+      "email": "bhava@gmail.com",
+      "mobile": "08976453215",
+      "weight": "48",
+      "height": "1.6",
+      "bmi": 18.749999999999996,
+      "bmiResults": "Normal",
+      "gender": "Female",
+      "requireTrainers": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "no",
+      "enquiryDate": "2023-02-23T18:30:00.000Z",
+      "id": 23
+    },
+    {
+      "firstName": "Sangeetha",
+      "lastName": "R",
+      "email": "sangeetha@gmail.com",
+      "mobile": "6380230290",
+      "weight": "68",
+      "height": "1.7",
+      "bmi": 23.529411764705884,
+      "bmiResults": "Normal",
+      "gender": "Female",
+      "requireTrainers": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance",
+        "Healthier Digestive System",
+        "Fitness"
+      ],
+      "haveGymBefore": "",
+      "enquiryDate": "2023-02-23T18:30:00.000Z",
+      "id": 24
+    },
+    {
+      "firstName": "bhava",
+      "lastName": "R",
+      "email": "bhavadharanir03@gmail.com",
+      "mobile": "8976543211",
+      "weight": "68",
+      "height": "1.67",
+      "bmi": 24.38237297859371,
+      "bmiResults": "Normal",
+      "gender": "Female",
+      "requireTrainers": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Energy and Endurance",
+        "Fitness"
+      ],
+      "haveGymBefore": "no",
+      "enquiryDate": "2023-02-18T18:30:00.000Z",
+      "id": 25
+    }
+  ]
+}
